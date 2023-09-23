@@ -1,7 +1,7 @@
 Entries are sorted chronologically from oldest to youngest within each release,
 releases are sorted from youngest to oldest.
 
-version 4.3.1:
+version 4.3.1 :
  avcodec/tiff: Check input space in dng_decode_jpeg()
  avcodec/mjpeg_parser: Adjust size rejection threshold
  avcodec/cbs_jpeg: Fix uninitialized end index in cbs_jpeg_split_fragment()
